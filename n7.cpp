@@ -4,7 +4,7 @@
  * @file   n7.cpp
  * @author Giovanni Cipriani <giocip7@gmail.com>
  * @date   2024
- * @brief  n7 ARBITRARY PRECISION ARITHMETIC-LOGIC COMMAND-LINE DECIMAL CALCULATOR FOR LINUX SHELL
+ * @brief  n7 v1.0.0 ARBITRARY PRECISION ARITHMETIC-LOGIC COMMAND-LINE DECIMAL CALCULATOR FOR LINUX SHELL
  *
  * @see https://github.com/giocip/n7
  */
@@ -410,7 +410,7 @@ void display_NOT_VALID_OPERATION(char* args) { raise("NOT VALID OPERATION", args
 
 void display_help(void) {
 	print("--------------------\n");
-	print("n7 (Calculator-num7) helps you with arithmetic operations:\n\n");
+	print("n7 (Calculator-num7 version 1.0.0) helps you with arithmetic operations:\n\n");
 	print("       addition: n7 + 2 3.5      #5.5\n");
 	print("       addition: n7 + 2 3.5 4.5  #10.0\n");
 	print("    subtraction: n7 - 2 3.5      #-1.5\n");
