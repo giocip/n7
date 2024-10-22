@@ -1,3 +1,14 @@
+/** DEVELOPED ON AMD Ryzen 5 Mobile 3550H 16GB DDR4 DRAM AND AMD64/ARM64 ARCHITECTURE */
+
+/**
+ * @file   n7.cpp
+ * @author Giovanni Cipriani <giocip7@gmail.com>
+ * @date   2024
+ * @brief  n7 ARBITRARY PRECISION ARITHMETIC-LOGIC COMMAND-LINE DECIMAL CALCULATOR FOR LINUX SHELL
+ *
+ * @see https://github.com/giocip/n7
+ */
+
 #include "num7.h"
 using namespace num7;
 //PROTOTYPES
