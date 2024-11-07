@@ -1,5 +1,5 @@
 # n7
-Arbitrary precision decimal calculator for linux shell and windows DOS command line.
+Arbitrary precision decimal calculator for linux shell (and windows DOS with its limitation) command line.
 
 In one directory with num7.h header file compile the following:
 
