@@ -55,7 +55,7 @@ In one directory with num7.h header file compile the following:
            spin-on: n7 rnd $(n7 spon 22.0 1_064.75) #1299.0
   
                rnd: n7 rnd  3.141592654 4  #3.1416
-              rndb: n7 rndb 3.141592654 7  #3.1415926
+              rndb: n7 rndb 3.14159265  7  #3.1415926
               rndc: n7 rndc 3.141592654    #4.0
               rndf: n7 rndf 3.74           #3.0
   
