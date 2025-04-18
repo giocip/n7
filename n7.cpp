@@ -3,7 +3,7 @@
 /**
  * @file   n7.cpp
  * @author Giovanni Cipriani <giocip7@gmail.com>
- * @date   2024
+ * @date   2025
  * @brief  n7 v1.0.0 ARBITRARY PRECISION ARITHMETIC-LOGIC COMMAND-LINE DECIMAL CALCULATOR FOR LINUX SHELL
  *
  * @see https://github.com/giocip/n7
@@ -458,7 +458,7 @@ void display_help(void) {
 	print("        spin-on: n7 rnd $(n7 spon 22.0 1_064.75) #1299.0\n\n");
 
 	print("            rnd: n7 rnd  3.141592654 4  #3.1416\n");
-	print("           rndb: n7 rndb 3.141592654 7  #3.1415926\n");
+	print("           rndb: n7 rndb 3.14159265  7  #3.1415926\n");
 	print("           rndc: n7 rndc 3.141592654    #4.0\n");
 	print("           rndf: n7 rndf 3.74           #3.0\n\n");
 
