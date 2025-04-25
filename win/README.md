@@ -7,5 +7,7 @@
   
     win package installer  
     
-  n7 nuget PACKAGE LINK  
+  n7 nuget PACKAGE LINK:
+
+    https://www.nuget.org/packages/n7
   
