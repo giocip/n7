@@ -2,5 +2,5 @@
 
     apt install ./n7.deb #INSTALLING...
     apt remove n7        #UNINSTALLING...
-    apt info n7               #INFORMATION PACKAGE n7
-    which n7                  #DIRECTORY's n7
+    apt info n7          #INFORMATION PACKAGE n7
+    which n7             #DIRECTORY's n7
